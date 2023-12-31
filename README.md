@@ -1,6 +1,5 @@
 # Web-Application-Attacks
 
-# **web_application_attacks**
 
 # Pentest Web
 
